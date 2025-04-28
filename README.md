@@ -4,9 +4,6 @@ Welcome to the CockroachDB Global User Database Challenge!
 The objective is to configure a multi-region user database that demonstrates data locality and regional survivability.
 
 
-## Prize 💵
-**$300 USD** for the highest score.
-
 ## Challenge Overview
 Transform a user database into a global system by implementing data locality that:
 - Routes user data to a specific region
