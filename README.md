@@ -216,15 +216,6 @@ INSERT INTO regional_by_row_users (name, email, city, country) VALUES
 2. Email your Github repository to: [ben.sherrill@cockroachlabs.com](mailto:ben.sherrill@cockroachlabs.com)
 3. Delete CockroachDB cluster after submission
 
-## Judging Criteria
-Total: 100 points
-
-| Category | Points | Description |
-|----------|--------|-------------|
-| Implementation | 40 | Correct setup and configuration |
-| CockroachDB Features | 40 | Effective use of platform capabilities |
-| Performance | 20 | Query optimization and efficiency |
-
 
 ## Questions
 For any questions or clarifications, contact elliot.park@cockroachlabs.com
