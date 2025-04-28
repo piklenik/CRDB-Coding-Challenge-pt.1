@@ -213,9 +213,9 @@ INSERT INTO regional_by_row_users (name, email, city, country) VALUES
      * Regional survivability - ensures data remains available even if an entire region goes down
      * Indexes - optimize query performance for read operations
      * Other optimizations (optional)
-2. Email your Github repository to: [ben.sherrill@cockroachlabs.com](mailto:ben.sherrill@cockroachlabs.com)
+2. Email your Github repository to: [nicolas@cockroachlabs.com](mailto:nicolas@cockroachlabs.com)
 3. Delete CockroachDB cluster after submission
 
 
 ## Questions
-For any questions or clarifications, contact elliot.park@cockroachlabs.com
+For any questions or clarifications, contact nicolas@cockroachlabs.com
